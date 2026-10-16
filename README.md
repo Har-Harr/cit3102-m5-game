@@ -76,3 +76,5 @@ The API runs at `http://127.0.0.1:8000/api`. Send the header `Accept: applicatio
 
 
 10<img width="1602" height="375" alt="image" src="https://github.com/user-attachments/assets/b8382c47-e2bb-49c3-9d46-f8cfdbfd251d" />
+
+Why does DELETE return 204 and not 200? **When a DELETE request works, the game is removed, so there is nothing left to send back. The status code 204 means “success, no content.” A 200 code normally comes with a response body, so using it for an empty reply would be odd. The empty reply with a 204 still tells the client that the delete worked.**
