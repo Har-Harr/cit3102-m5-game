@@ -1,3 +1,11 @@
+# Games API
+
+**Partners:** Luis Escalona and Harry Sarraga
+**Section:** IT1E
+**Resource:** Game (title, category, rating, release_date)
+
+A Laravel REST API for games, protected with Laravel Sanctum token authentication.
+
 ## Setup
 
 1. Clone the project:
