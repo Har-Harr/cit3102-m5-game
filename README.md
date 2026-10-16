@@ -1,3 +1,4 @@
+<img width="1606" height="457" alt="new user" src="https://github.com/user-attachments/assets/a0bf62f1-8c34-4c90-9965-38f15d106d4a" />
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -63,9 +64,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## SCREENSHOTS FOR STEP 6
-1
+1 <img width="1606" height="457" alt="image" src="https://github.com/user-attachments/assets/f6427a2b-50a2-4173-b6e1-fc5397a4475b" />
 
-2
+
+2<img width="1599" height="510" alt="image" src="https://github.com/user-attachments/assets/fc77aa76-10b3-4054-b5df-78a6c902e868" />
+
 
 3 Get - Games No Token.png
 ![Get Games No Token](ReadME%20screenshots/Get%20-%20Games%20No%20Token.png)
@@ -73,15 +76,19 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 4 Get - Games With Token.png
 ![Get Games With Token](ReadME%20screenshots/Get%20-%20Games%20With%20Token.png)
 
-5
+5<img width="1028" height="316" alt="image" src="https://github.com/user-attachments/assets/86df9c32-93d2-4fef-96ef-f8e7ca9bc808" />
 
-6
 
-7
+6<img width="1609" height="400" alt="image" src="https://github.com/user-attachments/assets/b58440e9-9ab7-4938-8d5e-16a5bd303334" />
 
-8
 
-9
+7<img width="1615" height="454" alt="image" src="https://github.com/user-attachments/assets/c2765375-e7fe-4ee7-b55b-42ff97f8a0d2" />
 
-1
-0
+
+8<img width="1612" height="399" alt="image" src="https://github.com/user-attachments/assets/36b0f4bc-9850-49cb-a42a-74bce52f0986" />
+
+
+9<img width="1600" height="456" alt="image" src="https://github.com/user-attachments/assets/30051716-af05-41fa-8981-77f7e9bd8b7b" />
+
+
+10<img width="1602" height="375" alt="image" src="https://github.com/user-attachments/assets/b8382c47-e2bb-49c3-9d46-f8cfdbfd251d" />
